@@ -1,0 +1,7076 @@
+李继尧-41431013-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李继尧"
+  ["name"]=>
+  float(41431013)
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李继尧 创建失败!
+王旭冉-41503101-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王旭冉"
+  ["name"]=>
+  string(8) "41503101"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王旭冉 创建失败!
+王家祎-41503102-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王家祎"
+  ["name"]=>
+  string(8) "41503102"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王家祎 创建失败!
+王琨-41503103-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(6) "王琨"
+  ["name"]=>
+  string(8) "41503103"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王琨 创建失败!
+孔令豪-41503104-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "孔令豪"
+  ["name"]=>
+  string(8) "41503104"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:孔令豪 创建失败!
+吕杰晟-41503105-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "吕杰晟"
+  ["name"]=>
+  string(8) "41503105"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吕杰晟 创建失败!
+李子昂-41503106-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李子昂"
+  ["name"]=>
+  string(8) "41503106"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李子昂 创建失败!
+李享-41503108-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(6) "李享"
+  ["name"]=>
+  string(8) "41503108"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李享 创建失败!
+杨启盟-41503109-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杨启盟"
+  ["name"]=>
+  string(8) "41503109"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨启盟 创建失败!
+张会柠-41503110-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张会柠"
+  ["name"]=>
+  string(8) "41503110"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张会柠 创建失败!
+张祺-41503111-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张祺"
+  ["name"]=>
+  string(8) "41503111"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张祺 创建失败!
+张鹏-41503112-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张鹏"
+  ["name"]=>
+  string(8) "41503112"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张鹏 创建失败!
+纳菲斯·阿布都赛买提-41503113-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(29) "纳菲斯·阿布都赛买提"
+  ["name"]=>
+  string(8) "41503113"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:纳菲斯·阿布都赛买提 创建失败!
+郑旭-41503114-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(6) "郑旭"
+  ["name"]=>
+  string(8) "41503114"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:郑旭 创建失败!
+项超宇-41503115-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "项超宇"
+  ["name"]=>
+  string(8) "41503115"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:项超宇 创建失败!
+赵畅-41503116-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(6) "赵畅"
+  ["name"]=>
+  string(8) "41503116"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:赵畅 创建失败!
+胡亚昕-41503117-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "胡亚昕"
+  ["name"]=>
+  string(8) "41503117"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:胡亚昕 创建失败!
+桂子玙-41503118-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "桂子玙"
+  ["name"]=>
+  string(8) "41503118"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:桂子玙 创建失败!
+殷一丹-41503119-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "殷一丹"
+  ["name"]=>
+  string(8) "41503119"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:殷一丹 创建失败!
+高一诺-41503120-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "高一诺"
+  ["name"]=>
+  string(8) "41503120"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高一诺 创建失败!
+高子原-41503121-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "高子原"
+  ["name"]=>
+  string(8) "41503121"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高子原 创建失败!
+唐叶辰-41503122-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "唐叶辰"
+  ["name"]=>
+  string(8) "41503122"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:唐叶辰 创建失败!
+桑潇-41503123-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(6) "桑潇"
+  ["name"]=>
+  string(8) "41503123"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:桑潇 创建失败!
+康杰栋-41503124-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "康杰栋"
+  ["name"]=>
+  string(8) "41503124"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:康杰栋 创建失败!
+梁文豪-41503125-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "梁文豪"
+  ["name"]=>
+  string(8) "41503125"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:梁文豪 创建失败!
+梁孟琪-41503126-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "梁孟琪"
+  ["name"]=>
+  string(8) "41503126"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:梁孟琪 创建失败!
+蒋丰懋-41503127-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "蒋丰懋"
+  ["name"]=>
+  string(8) "41503127"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:蒋丰懋 创建失败!
+韩志高-41503128-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "韩志高"
+  ["name"]=>
+  string(8) "41503128"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:韩志高 创建失败!
+谢云飞-41503129-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "谢云飞"
+  ["name"]=>
+  string(8) "41503129"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:谢云飞 创建失败!
+鄢峰波-41503130-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "鄢峰波"
+  ["name"]=>
+  string(8) "41503130"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:鄢峰波 创建失败!
+黄嘉炜-41503201-材料1501-NULL
+array(4) {
+  ["username"]=>
+  string(9) "黄嘉炜"
+  ["name"]=>
+  string(8) "41503201"
+  ["unit_info"]=>
+  string(10) "材料1501"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:黄嘉炜 创建失败!
+杨洋-41430038-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "杨洋"
+  ["name"]=>
+  float(41430038)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#672 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#74 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#77 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#93 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#95 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1502"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:杨洋 创建失败!
+朱兴亚-41501606-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "朱兴亚"
+  ["name"]=>
+  float(41501606)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#668 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#74 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#77 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#93 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#95 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1502"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:朱兴亚 创建失败!
+林财杰-41501643-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "林财杰"
+  ["name"]=>
+  float(41501643)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#664 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#74 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#77 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#93 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#95 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1502"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:林财杰 创建失败!
+王昕-41503131-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "王昕"
+  ["name"]=>
+  string(8) "41503131"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王昕 创建失败!
+文倩-41503132-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "文倩"
+  ["name"]=>
+  string(8) "41503132"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:文倩 创建失败!
+孙光耀-41503133-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "孙光耀"
+  ["name"]=>
+  string(8) "41503133"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:孙光耀 创建失败!
+李禹风-41503134-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李禹风"
+  ["name"]=>
+  string(8) "41503134"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李禹风 创建失败!
+李浩东-41503135-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李浩东"
+  ["name"]=>
+  string(8) "41503135"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李浩东 创建失败!
+李博文-41503136-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李博文"
+  ["name"]=>
+  string(8) "41503136"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李博文 创建失败!
+吴楠-41503137-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "吴楠"
+  ["name"]=>
+  string(8) "41503137"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吴楠 创建失败!
+余华-41503138-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "余华"
+  ["name"]=>
+  string(8) "41503138"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:余华 创建失败!
+汪涵-41503139-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "汪涵"
+  ["name"]=>
+  string(8) "41503139"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:汪涵 创建失败!
+张桐-41503140-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张桐"
+  ["name"]=>
+  string(8) "41503140"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张桐 创建失败!
+张海静-41503141-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张海静"
+  ["name"]=>
+  string(8) "41503141"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张海静 创建失败!
+陈纪航-41503142-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈纪航"
+  ["name"]=>
+  string(8) "41503142"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈纪航 创建失败!
+陈鹏-41503143-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "陈鹏"
+  ["name"]=>
+  string(8) "41503143"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈鹏 创建失败!
+欧阳衡-41503144-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "欧阳衡"
+  ["name"]=>
+  string(8) "41503144"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:欧阳衡 创建失败!
+罗颖-41503145-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "罗颖"
+  ["name"]=>
+  string(8) "41503145"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:罗颖 创建失败!
+周家士-41503146-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "周家士"
+  ["name"]=>
+  string(8) "41503146"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:周家士 创建失败!
+饶显慧-41503147-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "饶显慧"
+  ["name"]=>
+  string(8) "41503147"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:饶显慧 创建失败!
+聂翠-41503148-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "聂翠"
+  ["name"]=>
+  string(8) "41503148"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:聂翠 创建失败!
+高梦杰-41503149-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "高梦杰"
+  ["name"]=>
+  string(8) "41503149"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高梦杰 创建失败!
+郭恩博-41503150-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "郭恩博"
+  ["name"]=>
+  string(8) "41503150"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:郭恩博 创建失败!
+陶曦玥-41503151-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陶曦玥"
+  ["name"]=>
+  string(8) "41503151"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陶曦玥 创建失败!
+曹金鹏-41503152-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "曹金鹏"
+  ["name"]=>
+  string(8) "41503152"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:曹金鹏 创建失败!
+韩尚伟-41503153-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "韩尚伟"
+  ["name"]=>
+  string(8) "41503153"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:韩尚伟 创建失败!
+曾正-41503154-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(6) "曾正"
+  ["name"]=>
+  string(8) "41503154"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:曾正 创建失败!
+温世居-41503155-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "温世居"
+  ["name"]=>
+  string(8) "41503155"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:温世居 创建失败!
+阙联杭-41503156-材料1502-NULL
+array(4) {
+  ["username"]=>
+  string(9) "阙联杭"
+  ["name"]=>
+  string(8) "41503156"
+  ["unit_info"]=>
+  string(10) "材料1502"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:阙联杭 创建失败!
+胡桦-41501648-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(6) "胡桦"
+  ["name"]=>
+  float(41501648)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#582 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#98 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#94 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#97 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#100 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1503"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:胡桦 创建失败!
+塔轩宇-41502126-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "塔轩宇"
+  ["name"]=>
+  float(41502126)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#578 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#98 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#94 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#97 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#100 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1503"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:塔轩宇 创建失败!
+马俊良-41503157-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "马俊良"
+  ["name"]=>
+  string(8) "41503157"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:马俊良 创建失败!
+王玲-41503158-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(6) "王玲"
+  ["name"]=>
+  string(8) "41503158"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王玲 创建失败!
+邓洪伟-41503159-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "邓洪伟"
+  ["name"]=>
+  string(8) "41503159"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:邓洪伟 创建失败!
+石程-41503160-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(6) "石程"
+  ["name"]=>
+  string(8) "41503160"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:石程 创建失败!
+吕朝品-41503161-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "吕朝品"
+  ["name"]=>
+  string(8) "41503161"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吕朝品 创建失败!
+任浩-41503162-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(6) "任浩"
+  ["name"]=>
+  string(8) "41503162"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:任浩 创建失败!
+刘玉琛-41503163-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘玉琛"
+  ["name"]=>
+  string(8) "41503163"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘玉琛 创建失败!
+刘堃-41503164-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(6) "刘堃"
+  ["name"]=>
+  string(8) "41503164"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘堃 创建失败!
+李子巍-41503165-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李子巍"
+  ["name"]=>
+  string(8) "41503165"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李子巍 创建失败!
+杨凤霞-41503166-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杨凤霞"
+  ["name"]=>
+  string(8) "41503166"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨凤霞 创建失败!
+杨鑫-41503167-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(6) "杨鑫"
+  ["name"]=>
+  string(8) "41503167"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨鑫 创建失败!
+余梦蝶-41503168-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "余梦蝶"
+  ["name"]=>
+  string(8) "41503168"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:余梦蝶 创建失败!
+宋文涛-41503169-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "宋文涛"
+  ["name"]=>
+  string(8) "41503169"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:宋文涛 创建失败!
+张英超-41503170-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张英超"
+  ["name"]=>
+  string(8) "41503170"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张英超 创建失败!
+张政航-41503171-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张政航"
+  ["name"]=>
+  string(8) "41503171"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张政航 创建失败!
+周杰明-41503172-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "周杰明"
+  ["name"]=>
+  string(8) "41503172"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:周杰明 创建失败!
+庞雅洁-41503173-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "庞雅洁"
+  ["name"]=>
+  string(8) "41503173"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:庞雅洁 创建失败!
+郑焱-41503174-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(6) "郑焱"
+  ["name"]=>
+  string(8) "41503174"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:郑焱 创建失败!
+祝太洋-41503175-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "祝太洋"
+  ["name"]=>
+  string(8) "41503175"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:祝太洋 创建失败!
+娜迪拉·艾尼瓦尔-41503176-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(23) "娜迪拉·艾尼瓦尔"
+  ["name"]=>
+  string(8) "41503176"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:娜迪拉·艾尼瓦尔 创建失败!
+贾雨薇-41503177-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "贾雨薇"
+  ["name"]=>
+  string(8) "41503177"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:贾雨薇 创建失败!
+高涵-41503178-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(6) "高涵"
+  ["name"]=>
+  string(8) "41503178"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高涵 创建失败!
+高雅琦-41503179-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "高雅琦"
+  ["name"]=>
+  string(8) "41503179"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高雅琦 创建失败!
+龚晨晨-41503180-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(9) "龚晨晨"
+  ["name"]=>
+  string(8) "41503180"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:龚晨晨 创建失败!
+彭翀-41503181-材料1503-NULL
+array(4) {
+  ["username"]=>
+  string(6) "彭翀"
+  ["name"]=>
+  string(8) "41503181"
+  ["unit_info"]=>
+  string(10) "材料1503"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:彭翀 创建失败!
+成姝锦-41501306-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "成姝锦"
+  ["name"]=>
+  float(41501306)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#499 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#103 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#99 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#102 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#105 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1504"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:成姝锦 创建失败!
+姚蕴嘉-41502151-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "姚蕴嘉"
+  ["name"]=>
+  float(41502151)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#495 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#103 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#99 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#102 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#105 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1504"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:姚蕴嘉 创建失败!
+詹芳媛-41502157-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "詹芳媛"
+  ["name"]=>
+  float(41502157)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#491 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#103 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#99 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#102 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#105 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1504"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:詹芳媛 创建失败!
+李佳慧-41503107-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李佳慧"
+  ["name"]=>
+  string(8) "41503107"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李佳慧 创建失败!
+马萌萌-41503182-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "马萌萌"
+  ["name"]=>
+  string(8) "41503182"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:马萌萌 创建失败!
+田怡然-41503183-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "田怡然"
+  ["name"]=>
+  string(8) "41503183"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:田怡然 创建失败!
+刘胜楠-41503184-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘胜楠"
+  ["name"]=>
+  string(8) "41503184"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘胜楠 创建失败!
+李泽超-41503185-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李泽超"
+  ["name"]=>
+  string(8) "41503185"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李泽超 创建失败!
+李敏-41503186-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(6) "李敏"
+  ["name"]=>
+  string(8) "41503186"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李敏 创建失败!
+杨德民-41503187-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杨德民"
+  ["name"]=>
+  string(8) "41503187"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨德民 创建失败!
+吴伟-41503188-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(6) "吴伟"
+  ["name"]=>
+  string(8) "41503188"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吴伟 创建失败!
+张智婧-41503189-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张智婧"
+  ["name"]=>
+  string(8) "41503189"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张智婧 创建失败!
+陆张凯-41503190-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陆张凯"
+  ["name"]=>
+  string(8) "41503190"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陆张凯 创建失败!
+陈王璋-41503191-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈王璋"
+  ["name"]=>
+  string(8) "41503191"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈王璋 创建失败!
+林子杰-41503192-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "林子杰"
+  ["name"]=>
+  string(8) "41503192"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:林子杰 创建失败!
+周凡杰-41503193-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "周凡杰"
+  ["name"]=>
+  string(8) "41503193"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:周凡杰 创建失败!
+周文奇-41503194-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "周文奇"
+  ["name"]=>
+  string(8) "41503194"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:周文奇 创建失败!
+郑俊卿-41503195-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "郑俊卿"
+  ["name"]=>
+  string(8) "41503195"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:郑俊卿 创建失败!
+赵燕琼-41503196-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "赵燕琼"
+  ["name"]=>
+  string(8) "41503196"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:赵燕琼 创建失败!
+胡超群-41503197-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "胡超群"
+  ["name"]=>
+  string(8) "41503197"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:胡超群 创建失败!
+侯帅坤-41503198-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "侯帅坤"
+  ["name"]=>
+  string(8) "41503198"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:侯帅坤 创建失败!
+祝亚亮-41503199-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "祝亚亮"
+  ["name"]=>
+  string(8) "41503199"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:祝亚亮 创建失败!
+徐天祺-41503200-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "徐天祺"
+  ["name"]=>
+  string(8) "41503200"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:徐天祺 创建失败!
+崔杰-41503202-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(6) "崔杰"
+  ["name"]=>
+  string(8) "41503202"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:崔杰 创建失败!
+梁书涵-41503203-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "梁书涵"
+  ["name"]=>
+  string(8) "41503203"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:梁书涵 创建失败!
+蒋羽婷-41503204-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "蒋羽婷"
+  ["name"]=>
+  string(8) "41503204"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:蒋羽婷 创建失败!
+裴浩辰-41503205-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "裴浩辰"
+  ["name"]=>
+  string(8) "41503205"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:裴浩辰 创建失败!
+潘孝勤-41503206-材料1504-NULL
+array(4) {
+  ["username"]=>
+  string(9) "潘孝勤"
+  ["name"]=>
+  string(8) "41503206"
+  ["unit_info"]=>
+  string(10) "材料1504"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:潘孝勤 创建失败!
+孙雪兆-41502195-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "孙雪兆"
+  ["name"]=>
+  float(41502195)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#412 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#108 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#104 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#107 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#110 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1505"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:孙雪兆 创建失败!
+孙瑜-41502196-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(6) "孙瑜"
+  ["name"]=>
+  float(41502196)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#408 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#108 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#104 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#107 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#110 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1505"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:孙瑜 创建失败!
+王利静-41503207-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王利静"
+  ["name"]=>
+  string(8) "41503207"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王利静 创建失败!
+王紫丹-41503208-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王紫丹"
+  ["name"]=>
+  string(8) "41503208"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王紫丹 创建失败!
+尤子贤-41503209-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "尤子贤"
+  ["name"]=>
+  string(8) "41503209"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:尤子贤 创建失败!
+卢义然-41503210-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "卢义然"
+  ["name"]=>
+  string(8) "41503210"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:卢义然 创建失败!
+代思美-41503211-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "代思美"
+  ["name"]=>
+  string(8) "41503211"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:代思美 创建失败!
+丛雨洁-41503212-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "丛雨洁"
+  ["name"]=>
+  string(8) "41503212"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:丛雨洁 创建失败!
+朱泽升-41503213-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "朱泽升"
+  ["name"]=>
+  string(8) "41503213"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:朱泽升 创建失败!
+刘昕岳-41503214-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘昕岳"
+  ["name"]=>
+  string(8) "41503214"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘昕岳 创建失败!
+苏寅-41503215-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(6) "苏寅"
+  ["name"]=>
+  string(8) "41503215"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:苏寅 创建失败!
+邹啸然-41503216-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "邹啸然"
+  ["name"]=>
+  string(8) "41503216"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:邹啸然 创建失败!
+张一鸣-41503217-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张一鸣"
+  ["name"]=>
+  string(8) "41503217"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张一鸣 创建失败!
+张昊-41503218-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张昊"
+  ["name"]=>
+  string(8) "41503218"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张昊 创建失败!
+张欣-41503219-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张欣"
+  ["name"]=>
+  string(8) "41503219"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张欣 创建失败!
+张朋-41503220-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张朋"
+  ["name"]=>
+  string(8) "41503220"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张朋 创建失败!
+陈昊-41503221-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(6) "陈昊"
+  ["name"]=>
+  string(8) "41503221"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈昊 创建失败!
+陈晓东-41503222-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈晓东"
+  ["name"]=>
+  string(8) "41503222"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈晓东 创建失败!
+罗进威-41503223-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "罗进威"
+  ["name"]=>
+  string(8) "41503223"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:罗进威 创建失败!
+周鑫-41503224-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(6) "周鑫"
+  ["name"]=>
+  string(8) "41503224"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:周鑫 创建失败!
+赵琪-41503225-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(6) "赵琪"
+  ["name"]=>
+  string(8) "41503225"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:赵琪 创建失败!
+高蕴畅-41503226-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "高蕴畅"
+  ["name"]=>
+  string(8) "41503226"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高蕴畅 创建失败!
+黄英婷-41503227-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "黄英婷"
+  ["name"]=>
+  string(8) "41503227"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:黄英婷 创建失败!
+韩钊-41503228-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(6) "韩钊"
+  ["name"]=>
+  string(8) "41503228"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:韩钊 创建失败!
+楚建伟-41503229-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "楚建伟"
+  ["name"]=>
+  string(8) "41503229"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:楚建伟 创建失败!
+窦学铮-41503230-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "窦学铮"
+  ["name"]=>
+  string(8) "41503230"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:窦学铮 创建失败!
+熊朗轲-41503231-材料1505-NULL
+array(4) {
+  ["username"]=>
+  string(9) "熊朗轲"
+  ["name"]=>
+  string(8) "41503231"
+  ["unit_info"]=>
+  string(10) "材料1505"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:熊朗轲 创建失败!
+吕林泽-41430083-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "吕林泽"
+  ["name"]=>
+  float(41430083)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#326 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#113 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#109 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#112 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#115 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1506"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:吕林泽 创建失败!
+黄冠勇-41430125-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "黄冠勇"
+  ["name"]=>
+  string(8) "41430125"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:黄冠勇 创建失败!
+于笑博-41503232-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "于笑博"
+  ["name"]=>
+  string(8) "41503232"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:于笑博 创建失败!
+上官丽-41503233-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "上官丽"
+  ["name"]=>
+  string(8) "41503233"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:上官丽 创建失败!
+马俊达-41503234-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "马俊达"
+  ["name"]=>
+  string(8) "41503234"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:马俊达 创建失败!
+王小菡-41503235-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王小菡"
+  ["name"]=>
+  string(8) "41503235"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王小菡 创建失败!
+王利诚-41503236-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王利诚"
+  ["name"]=>
+  string(8) "41503236"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王利诚 创建失败!
+卢乐然-41503237-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "卢乐然"
+  ["name"]=>
+  string(8) "41503237"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:卢乐然 创建失败!
+叶恭呈-41503238-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "叶恭呈"
+  ["name"]=>
+  string(8) "41503238"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:叶恭呈 创建失败!
+冯瑞楦-41503239-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "冯瑞楦"
+  ["name"]=>
+  string(8) "41503239"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:冯瑞楦 创建失败!
+朱星宇-41503240-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "朱星宇"
+  ["name"]=>
+  string(8) "41503240"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:朱星宇 创建失败!
+刘子萌-41503241-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘子萌"
+  ["name"]=>
+  string(8) "41503241"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘子萌 创建失败!
+刘斯奇-41503242-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘斯奇"
+  ["name"]=>
+  string(8) "41503242"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘斯奇 创建失败!
+李子安-41503243-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李子安"
+  ["name"]=>
+  string(8) "41503243"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李子安 创建失败!
+李昊东-41503244-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李昊东"
+  ["name"]=>
+  string(8) "41503244"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李昊东 创建失败!
+李晓天-41503245-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李晓天"
+  ["name"]=>
+  string(8) "41503245"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李晓天 创建失败!
+李强华-41503246-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李强华"
+  ["name"]=>
+  string(8) "41503246"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李强华 创建失败!
+肖留洋-41503247-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "肖留洋"
+  ["name"]=>
+  string(8) "41503247"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:肖留洋 创建失败!
+张晓伦-41503248-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张晓伦"
+  ["name"]=>
+  string(8) "41503248"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张晓伦 创建失败!
+张越-41503249-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张越"
+  ["name"]=>
+  string(8) "41503249"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张越 创建失败!
+陈镜元-41503250-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈镜元"
+  ["name"]=>
+  string(8) "41503250"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈镜元 创建失败!
+罗洁雅-41503251-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "罗洁雅"
+  ["name"]=>
+  string(8) "41503251"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:罗洁雅 创建失败!
+柳昌涛-41503252-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "柳昌涛"
+  ["name"]=>
+  string(8) "41503252"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:柳昌涛 创建失败!
+崔晓宇-41503253-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "崔晓宇"
+  ["name"]=>
+  string(8) "41503253"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:崔晓宇 创建失败!
+雍维-41503254-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(6) "雍维"
+  ["name"]=>
+  string(8) "41503254"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:雍维 创建失败!
+蔺永杰-41503255-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "蔺永杰"
+  ["name"]=>
+  string(8) "41503255"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:蔺永杰 创建失败!
+黎玫霖-41503256-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "黎玫霖"
+  ["name"]=>
+  string(8) "41503256"
+  ["unit_info"]=>
+  string(10) "材料1506"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:黎玫霖 创建失败!
+朱锐雪-41522111-材料1506-NULL
+array(4) {
+  ["username"]=>
+  string(9) "朱锐雪"
+  ["name"]=>
+  float(41522111)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#853 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#113 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#109 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#112 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#115 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1506"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:朱锐雪 创建失败!
+丁佳洛-41503257-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "丁佳洛"
+  ["name"]=>
+  string(8) "41503257"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:丁佳洛 创建失败!
+于泽浩-41503258-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "于泽浩"
+  ["name"]=>
+  string(8) "41503258"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:于泽浩 创建失败!
+王波涛-41503259-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王波涛"
+  ["name"]=>
+  string(8) "41503259"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王波涛 创建失败!
+王贵子-41503260-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王贵子"
+  ["name"]=>
+  string(8) "41503260"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王贵子 创建失败!
+邓丽莎-41503261-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "邓丽莎"
+  ["name"]=>
+  string(8) "41503261"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:邓丽莎 创建失败!
+邓栩璐-41503262-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "邓栩璐"
+  ["name"]=>
+  string(8) "41503262"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:邓栩璐 创建失败!
+邓裘阳-41503263-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "邓裘阳"
+  ["name"]=>
+  string(8) "41503263"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:邓裘阳 创建失败!
+石辅仟-41503264-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "石辅仟"
+  ["name"]=>
+  string(8) "41503264"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:石辅仟 创建失败!
+史苑-41503265-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(6) "史苑"
+  ["name"]=>
+  string(8) "41503265"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:史苑 创建失败!
+刘硕-41503266-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(6) "刘硕"
+  ["name"]=>
+  string(8) "41503266"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘硕 创建失败!
+李旻希-41503267-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李旻希"
+  ["name"]=>
+  string(8) "41503267"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李旻希 创建失败!
+李博文-41503268-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李博文"
+  ["name"]=>
+  string(8) "41503268"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李博文 创建失败!
+杨雨菲-41503269-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杨雨菲"
+  ["name"]=>
+  string(8) "41503269"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨雨菲 创建失败!
+张嘉媛-41503270-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张嘉媛"
+  ["name"]=>
+  string(8) "41503270"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张嘉媛 创建失败!
+陈佳男-41503271-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈佳男"
+  ["name"]=>
+  string(8) "41503271"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈佳男 创建失败!
+陈质彬-41503272-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈质彬"
+  ["name"]=>
+  string(8) "41503272"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈质彬 创建失败!
+金慧莹-41503273-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "金慧莹"
+  ["name"]=>
+  string(8) "41503273"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:金慧莹 创建失败!
+泮壹标-41503274-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "泮壹标"
+  ["name"]=>
+  string(8) "41503274"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:泮壹标 创建失败!
+胡潇-41503275-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(6) "胡潇"
+  ["name"]=>
+  string(8) "41503275"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:胡潇 创建失败!
+侯辰锦-41503276-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "侯辰锦"
+  ["name"]=>
+  string(8) "41503276"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:侯辰锦 创建失败!
+姜一帆-41503277-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "姜一帆"
+  ["name"]=>
+  string(8) "41503277"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:姜一帆 创建失败!
+郭旭东-41503278-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "郭旭东"
+  ["name"]=>
+  string(8) "41503278"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:郭旭东 创建失败!
+章其暄-41503279-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "章其暄"
+  ["name"]=>
+  string(8) "41503279"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:章其暄 创建失败!
+曾庆航-41503280-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "曾庆航"
+  ["name"]=>
+  string(8) "41503280"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:曾庆航 创建失败!
+鲜小科-41503281-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "鲜小科"
+  ["name"]=>
+  string(8) "41503281"
+  ["unit_info"]=>
+  string(10) "材料1507"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:鲜小科 创建失败!
+王一涵-41504189-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王一涵"
+  ["name"]=>
+  float(41504189)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#932 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#118 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#114 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#117 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#120 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1507"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:王一涵 创建失败!
+吴迪-41504205-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(6) "吴迪"
+  ["name"]=>
+  float(41504205)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#936 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#118 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#114 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#117 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#120 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1507"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:吴迪 创建失败!
+张友源-41504431-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张友源"
+  ["name"]=>
+  float(41504431)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#940 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#118 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#114 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#117 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#120 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1507"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:张友源 创建失败!
+李澍-41504646-材料1507-NULL
+array(4) {
+  ["username"]=>
+  string(6) "李澍"
+  ["name"]=>
+  float(41504646)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#944 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#118 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#114 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#117 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#120 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1507"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:李澍 创建失败!
+刘妍辉-41502169-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘妍辉"
+  ["name"]=>
+  float(41502169)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#948 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#123 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#119 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#122 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#125 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1508"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:刘妍辉 创建失败!
+谢亮军-41502185-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "谢亮军"
+  ["name"]=>
+  float(41502185)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#952 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#123 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#119 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#122 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#125 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1508"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:谢亮军 创建失败!
+马月婷-41502187-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "马月婷"
+  ["name"]=>
+  float(41502187)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#956 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#123 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#119 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#122 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#125 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1508"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:马月婷 创建失败!
+祁明群-41502193-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "祁明群"
+  ["name"]=>
+  float(41502193)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#960 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#123 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#119 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#122 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#125 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1508"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:祁明群 创建失败!
+王浩新-41503282-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王浩新"
+  ["name"]=>
+  string(8) "41503282"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王浩新 创建失败!
+王润港-41503283-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王润港"
+  ["name"]=>
+  string(8) "41503283"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王润港 创建失败!
+石硕-41503284-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(6) "石硕"
+  ["name"]=>
+  string(8) "41503284"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:石硕 创建失败!
+伍玲梅-41503285-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "伍玲梅"
+  ["name"]=>
+  string(8) "41503285"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:伍玲梅 创建失败!
+刘文龙-41503286-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘文龙"
+  ["name"]=>
+  string(8) "41503286"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘文龙 创建失败!
+江兆炎-41503287-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "江兆炎"
+  ["name"]=>
+  string(8) "41503287"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:江兆炎 创建失败!
+牟秋琴-41503288-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "牟秋琴"
+  ["name"]=>
+  string(8) "41503288"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:牟秋琴 创建失败!
+李修远-41503289-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李修远"
+  ["name"]=>
+  string(8) "41503289"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李修远 创建失败!
+李鸿鹄-41503290-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李鸿鹄"
+  ["name"]=>
+  string(8) "41503290"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李鸿鹄 创建失败!
+李潘-41503291-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(6) "李潘"
+  ["name"]=>
+  string(8) "41503291"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李潘 创建失败!
+杨宁-41503292-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(6) "杨宁"
+  ["name"]=>
+  string(8) "41503292"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨宁 创建失败!
+杨虹-41503293-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(6) "杨虹"
+  ["name"]=>
+  string(8) "41503293"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨虹 创建失败!
+何晨涛-41503294-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "何晨涛"
+  ["name"]=>
+  string(8) "41503294"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:何晨涛 创建失败!
+何琴-41503295-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(6) "何琴"
+  ["name"]=>
+  string(8) "41503295"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:何琴 创建失败!
+宋少康-41503296-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "宋少康"
+  ["name"]=>
+  string(8) "41503296"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:宋少康 创建失败!
+张能-41503297-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张能"
+  ["name"]=>
+  string(8) "41503297"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张能 创建失败!
+张越-41503298-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张越"
+  ["name"]=>
+  string(8) "41503298"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张越 创建失败!
+胡泊-41503299-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(6) "胡泊"
+  ["name"]=>
+  string(8) "41503299"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:胡泊 创建失败!
+姚粟曦-41503300-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "姚粟曦"
+  ["name"]=>
+  string(8) "41503300"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:姚粟曦 创建失败!
+耿殿程-41503301-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "耿殿程"
+  ["name"]=>
+  string(8) "41503301"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:耿殿程 创建失败!
+唐誉源-41503302-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "唐誉源"
+  ["name"]=>
+  string(8) "41503302"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:唐誉源 创建失败!
+曹晨星-41503303-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "曹晨星"
+  ["name"]=>
+  string(8) "41503303"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:曹晨星 创建失败!
+常艺馨-41503304-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(9) "常艺馨"
+  ["name"]=>
+  string(8) "41503304"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:常艺馨 创建失败!
+崔晨-41503305-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(6) "崔晨"
+  ["name"]=>
+  string(8) "41503305"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:崔晨 创建失败!
+谭婷-41503306-材料1508-NULL
+array(4) {
+  ["username"]=>
+  string(6) "谭婷"
+  ["name"]=>
+  string(8) "41503306"
+  ["unit_info"]=>
+  string(10) "材料1508"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:谭婷 创建失败!
+马骋-41501532-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "马骋"
+  ["name"]=>
+  float(41501532)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1039 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#128 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#124 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#127 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#130 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1509"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:马骋 创建失败!
+王君名-41501601-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王君名"
+  ["name"]=>
+  float(41501601)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1043 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#128 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#124 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#127 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#130 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1509"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:王君名 创建失败!
+石贤-41501605-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "石贤"
+  ["name"]=>
+  float(41501605)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1047 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#128 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#124 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#127 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#130 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1509"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:石贤 创建失败!
+邓涵之-41503307-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "邓涵之"
+  ["name"]=>
+  string(8) "41503307"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:邓涵之 创建失败!
+卢文宇-41503308-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "卢文宇"
+  ["name"]=>
+  string(8) "41503308"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:卢文宇 创建失败!
+付祎磊-41503309-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "付祎磊"
+  ["name"]=>
+  string(8) "41503309"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:付祎磊 创建失败!
+毕泽龙-41503310-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "毕泽龙"
+  ["name"]=>
+  string(8) "41503310"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:毕泽龙 创建失败!
+朱羲乐-41503311-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "朱羲乐"
+  ["name"]=>
+  string(8) "41503311"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:朱羲乐 创建失败!
+刘洁-41503312-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "刘洁"
+  ["name"]=>
+  string(8) "41503312"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘洁 创建失败!
+刘琦-41503313-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "刘琦"
+  ["name"]=>
+  string(8) "41503313"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘琦 创建失败!
+苏杨-41503314-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "苏杨"
+  ["name"]=>
+  string(8) "41503314"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:苏杨 创建失败!
+杨涵-41503315-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "杨涵"
+  ["name"]=>
+  string(8) "41503315"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨涵 创建失败!
+张特-41503316-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张特"
+  ["name"]=>
+  string(8) "41503316"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张特 创建失败!
+张越轩-41503317-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张越轩"
+  ["name"]=>
+  string(8) "41503317"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张越轩 创建失败!
+陈嘉毅-41503318-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈嘉毅"
+  ["name"]=>
+  string(8) "41503318"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈嘉毅 创建失败!
+周赟-41503319-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "周赟"
+  ["name"]=>
+  string(8) "41503319"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:周赟 创建失败!
+胡高阳-41503320-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "胡高阳"
+  ["name"]=>
+  string(8) "41503320"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:胡高阳 创建失败!
+宫嘉男-41503321-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "宫嘉男"
+  ["name"]=>
+  string(8) "41503321"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:宫嘉男 创建失败!
+姚娜娜-41503322-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "姚娜娜"
+  ["name"]=>
+  string(8) "41503322"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:姚娜娜 创建失败!
+钱昂-41503323-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "钱昂"
+  ["name"]=>
+  string(8) "41503323"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:钱昂 创建失败!
+黄浩伦-41503324-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "黄浩伦"
+  ["name"]=>
+  string(8) "41503324"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:黄浩伦 创建失败!
+曹煜-41503325-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "曹煜"
+  ["name"]=>
+  string(8) "41503325"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:曹煜 创建失败!
+程鸣潇-41503326-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "程鸣潇"
+  ["name"]=>
+  string(8) "41503326"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:程鸣潇 创建失败!
+温玉颖-41503327-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "温玉颖"
+  ["name"]=>
+  string(8) "41503327"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:温玉颖 创建失败!
+蒲浩-41503328-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "蒲浩"
+  ["name"]=>
+  string(8) "41503328"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:蒲浩 创建失败!
+楼育锟-41503329-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "楼育锟"
+  ["name"]=>
+  string(8) "41503329"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:楼育锟 创建失败!
+蔡梦龙-41503330-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(9) "蔡梦龙"
+  ["name"]=>
+  string(8) "41503330"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:蔡梦龙 创建失败!
+蔡晨-41503331-材料1509-NULL
+array(4) {
+  ["username"]=>
+  string(6) "蔡晨"
+  ["name"]=>
+  string(8) "41503331"
+  ["unit_info"]=>
+  string(10) "材料1509"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:蔡晨 创建失败!
+孙晓宇-41501108-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "孙晓宇"
+  ["name"]=>
+  float(41501108)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1126 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#133 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#129 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#132 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#135 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1510"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:孙晓宇 创建失败!
+陈荣-41501351-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(6) "陈荣"
+  ["name"]=>
+  float(41501351)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1130 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#133 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#129 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#132 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#135 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1510"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:陈荣 创建失败!
+刘璇-41502139-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(6) "刘璇"
+  ["name"]=>
+  float(41502139)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1134 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#133 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#129 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#132 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#135 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1510"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:刘璇 创建失败!
+马丽莎-41503332-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "马丽莎"
+  ["name"]=>
+  string(8) "41503332"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:马丽莎 创建失败!
+毛梁泽-41503333-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "毛梁泽"
+  ["name"]=>
+  string(8) "41503333"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:毛梁泽 创建失败!
+石行健-41503334-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "石行健"
+  ["name"]=>
+  string(8) "41503334"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:石行健 创建失败!
+田雨-41503335-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(6) "田雨"
+  ["name"]=>
+  string(8) "41503335"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:田雨 创建失败!
+向学强-41503336-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "向学强"
+  ["name"]=>
+  string(8) "41503336"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:向学强 创建失败!
+刘晓潼-41503337-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘晓潼"
+  ["name"]=>
+  string(8) "41503337"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘晓潼 创建失败!
+刘晗-41503338-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(6) "刘晗"
+  ["name"]=>
+  string(8) "41503338"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘晗 创建失败!
+祁恺中-41503339-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "祁恺中"
+  ["name"]=>
+  string(8) "41503339"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:祁恺中 创建失败!
+孙韩博文-41503340-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(12) "孙韩博文"
+  ["name"]=>
+  string(8) "41503340"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:孙韩博文 创建失败!
+杨芮琳-41503341-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杨芮琳"
+  ["name"]=>
+  string(8) "41503341"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨芮琳 创建失败!
+辛怡-41503342-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(6) "辛怡"
+  ["name"]=>
+  string(8) "41503342"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:辛怡 创建失败!
+张铭远-41503343-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张铭远"
+  ["name"]=>
+  string(8) "41503343"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张铭远 创建失败!
+张港回-41503344-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张港回"
+  ["name"]=>
+  string(8) "41503344"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张港回 创建失败!
+张濒泽-41503345-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张濒泽"
+  ["name"]=>
+  string(8) "41503345"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张濒泽 创建失败!
+庞思敏-41503346-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "庞思敏"
+  ["name"]=>
+  string(8) "41503346"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:庞思敏 创建失败!
+赵帅-41503347-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(6) "赵帅"
+  ["name"]=>
+  string(8) "41503347"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:赵帅 创建失败!
+贺茵茵-41503348-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "贺茵茵"
+  ["name"]=>
+  string(8) "41503348"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:贺茵茵 创建失败!
+夏开伟-41503349-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "夏开伟"
+  ["name"]=>
+  string(8) "41503349"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:夏开伟 创建失败!
+高婕敏-41503350-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "高婕敏"
+  ["name"]=>
+  string(8) "41503350"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高婕敏 创建失败!
+郭日思-41503351-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "郭日思"
+  ["name"]=>
+  string(8) "41503351"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:郭日思 创建失败!
+郭旭-41503352-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(6) "郭旭"
+  ["name"]=>
+  string(8) "41503352"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:郭旭 创建失败!
+章立轩-41503353-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "章立轩"
+  ["name"]=>
+  string(8) "41503353"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:章立轩 创建失败!
+黑鸿福-41503354-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "黑鸿福"
+  ["name"]=>
+  string(8) "41503354"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:黑鸿福 创建失败!
+程佳惠子-41503355-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(12) "程佳惠子"
+  ["name"]=>
+  string(8) "41503355"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:程佳惠子 创建失败!
+傅盛洁-41503356-材料1510-NULL
+array(4) {
+  ["username"]=>
+  string(9) "傅盛洁"
+  ["name"]=>
+  string(8) "41503356"
+  ["unit_info"]=>
+  string(10) "材料1510"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:傅盛洁 创建失败!
+孔祥远-41503357-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "孔祥远"
+  ["name"]=>
+  string(8) "41503357"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:孔祥远 创建失败!
+邓馨-41503358-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(6) "邓馨"
+  ["name"]=>
+  string(8) "41503358"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:邓馨 创建失败!
+卢静玉-41503359-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "卢静玉"
+  ["name"]=>
+  string(8) "41503359"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:卢静玉 创建失败!
+邢原铭-41503360-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "邢原铭"
+  ["name"]=>
+  string(8) "41503360"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:邢原铭 创建失败!
+朱依欣-41503361-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "朱依欣"
+  ["name"]=>
+  string(8) "41503361"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:朱依欣 创建失败!
+刘文文-41503362-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘文文"
+  ["name"]=>
+  string(8) "41503362"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘文文 创建失败!
+孙宇-41503363-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(6) "孙宇"
+  ["name"]=>
+  string(8) "41503363"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:孙宇 创建失败!
+李佳芳-41503364-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李佳芳"
+  ["name"]=>
+  string(8) "41503364"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李佳芳 创建失败!
+杨博铭-41503365-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杨博铭"
+  ["name"]=>
+  string(8) "41503365"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨博铭 创建失败!
+闵泰杰-41503366-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "闵泰杰"
+  ["name"]=>
+  string(8) "41503366"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:闵泰杰 创建失败!
+张旭丹-41503367-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张旭丹"
+  ["name"]=>
+  string(8) "41503367"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张旭丹 创建失败!
+张茂才-41503368-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张茂才"
+  ["name"]=>
+  string(8) "41503368"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张茂才 创建失败!
+陈锦帅-41503369-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈锦帅"
+  ["name"]=>
+  string(8) "41503369"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈锦帅 创建失败!
+欧力加斯·居马别克-41503370-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(26) "欧力加斯·居马别克"
+  ["name"]=>
+  string(8) "41503370"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:欧力加斯·居马别克 创建失败!
+赵志远-41503371-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "赵志远"
+  ["name"]=>
+  string(8) "41503371"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:赵志远 创建失败!
+赵灵光-41503372-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "赵灵光"
+  ["name"]=>
+  string(8) "41503372"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:赵灵光 创建失败!
+赵艳芸-41503373-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "赵艳芸"
+  ["name"]=>
+  string(8) "41503373"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:赵艳芸 创建失败!
+保金映-41503374-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "保金映"
+  ["name"]=>
+  string(8) "41503374"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:保金映 创建失败!
+贾晓敏-41503375-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "贾晓敏"
+  ["name"]=>
+  string(8) "41503375"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:贾晓敏 创建失败!
+夏钊-41503376-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(6) "夏钊"
+  ["name"]=>
+  string(8) "41503376"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:夏钊 创建失败!
+高荣升-41503377-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "高荣升"
+  ["name"]=>
+  string(8) "41503377"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高荣升 创建失败!
+涂思佳-41503378-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "涂思佳"
+  ["name"]=>
+  string(8) "41503378"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:涂思佳 创建失败!
+梁晨-41503379-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(6) "梁晨"
+  ["name"]=>
+  string(8) "41503379"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:梁晨 创建失败!
+董诗鹏-41503380-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "董诗鹏"
+  ["name"]=>
+  string(8) "41503380"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:董诗鹏 创建失败!
+蔡海峰-41503381-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "蔡海峰"
+  ["name"]=>
+  string(8) "41503381"
+  ["unit_info"]=>
+  string(10) "材料1511"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:蔡海峰 创建失败!
+赵世宇-41518080-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "赵世宇"
+  ["name"]=>
+  float(41518080)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1288 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#138 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#134 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#137 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#140 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1511"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:赵世宇 创建失败!
+程小涵-41522130-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "程小涵"
+  ["name"]=>
+  float(41522130)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1292 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#138 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#134 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#137 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#140 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1511"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:程小涵 创建失败!
+余华斌-41522244-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "余华斌"
+  ["name"]=>
+  float(41522244)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1296 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#138 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#134 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#137 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#140 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1511"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:余华斌 创建失败!
+闫雪艳-41523310-材料1511-NULL
+array(4) {
+  ["username"]=>
+  string(9) "闫雪艳"
+  ["name"]=>
+  float(41523310)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1300 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#138 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#134 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#137 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#140 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1511"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:闫雪艳 创建失败!
+陈昊璋-41502205-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈昊璋"
+  ["name"]=>
+  float(41502205)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1304 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#143 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#139 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#142 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#145 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1512"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:陈昊璋 创建失败!
+蔡永森-41502213-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "蔡永森"
+  ["name"]=>
+  float(41502213)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1308 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#143 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#139 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#142 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#145 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1512"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:蔡永森 创建失败!
+于淼-41503382-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(6) "于淼"
+  ["name"]=>
+  string(8) "41503382"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:于淼 创建失败!
+马婷婷-41503383-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "马婷婷"
+  ["name"]=>
+  string(8) "41503383"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:马婷婷 创建失败!
+王礼伟-41503384-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王礼伟"
+  ["name"]=>
+  string(8) "41503384"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王礼伟 创建失败!
+王宇鹏-41503385-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王宇鹏"
+  ["name"]=>
+  string(8) "41503385"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王宇鹏 创建失败!
+王博雅-41503386-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王博雅"
+  ["name"]=>
+  string(8) "41503386"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王博雅 创建失败!
+朱金冬-41503387-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "朱金冬"
+  ["name"]=>
+  string(8) "41503387"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:朱金冬 创建失败!
+朱淇-41503388-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(6) "朱淇"
+  ["name"]=>
+  string(8) "41503388"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:朱淇 创建失败!
+孙艳云-41503389-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "孙艳云"
+  ["name"]=>
+  string(8) "41503389"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:孙艳云 创建失败!
+李长越-41503390-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李长越"
+  ["name"]=>
+  string(8) "41503390"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李长越 创建失败!
+李佳民-41503391-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李佳民"
+  ["name"]=>
+  string(8) "41503391"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李佳民 创建失败!
+杨泽森-41503392-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杨泽森"
+  ["name"]=>
+  string(8) "41503392"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨泽森 创建失败!
+杨娜-41503393-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(6) "杨娜"
+  ["name"]=>
+  string(8) "41503393"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨娜 创建失败!
+肖志高-41503394-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "肖志高"
+  ["name"]=>
+  string(8) "41503394"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:肖志高 创建失败!
+吴沛芳-41503395-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "吴沛芳"
+  ["name"]=>
+  string(8) "41503395"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吴沛芳 创建失败!
+张宇-41503396-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张宇"
+  ["name"]=>
+  string(8) "41503396"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张宇 创建失败!
+张柯-41503397-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张柯"
+  ["name"]=>
+  string(8) "41503397"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张柯 创建失败!
+陈思宇-41503398-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈思宇"
+  ["name"]=>
+  string(8) "41503398"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈思宇 创建失败!
+陈前-41503399-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(6) "陈前"
+  ["name"]=>
+  string(8) "41503399"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈前 创建失败!
+陈超-41503400-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(6) "陈超"
+  ["name"]=>
+  string(8) "41503400"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈超 创建失败!
+胡有衡-41503401-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "胡有衡"
+  ["name"]=>
+  string(8) "41503401"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:胡有衡 创建失败!
+殷雄-41503402-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(6) "殷雄"
+  ["name"]=>
+  string(8) "41503402"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:殷雄 创建失败!
+高晴-41503403-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(6) "高晴"
+  ["name"]=>
+  string(8) "41503403"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高晴 创建失败!
+黄茹颖-41503404-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "黄茹颖"
+  ["name"]=>
+  string(8) "41503404"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:黄茹颖 创建失败!
+梅杨-41503405-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(6) "梅杨"
+  ["name"]=>
+  string(8) "41503405"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:梅杨 创建失败!
+梁锦旋-41503406-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "梁锦旋"
+  ["name"]=>
+  string(8) "41503406"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:梁锦旋 创建失败!
+薛杉杉-41503407-材料1512-NULL
+array(4) {
+  ["username"]=>
+  string(9) "薛杉杉"
+  ["name"]=>
+  string(8) "41503407"
+  ["unit_info"]=>
+  string(10) "材料1512"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:薛杉杉 创建失败!
+曾世鹏-41430306-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "曾世鹏"
+  ["name"]=>
+  string(8) "41430306"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:曾世鹏 创建失败!
+周焱-41466053-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(6) "周焱"
+  ["name"]=>
+  float(41466053)
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:周焱 创建失败!
+王金琳-41502248-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王金琳"
+  ["name"]=>
+  float(41502248)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1396 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#148 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#144 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#147 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#150 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1513"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:王金琳 创建失败!
+谢永节-41502274-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "谢永节"
+  ["name"]=>
+  float(41502274)
+  ["unit_info"]=>
+  object(PHPExcel_RichText)#1400 (1) {
+    ["_richTextElements":"PHPExcel_RichText":private]=>
+    array(2) {
+      [0]=>
+      object(PHPExcel_RichText_TextElement)#148 (1) {
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(6) "材料"
+      }
+      [1]=>
+      object(PHPExcel_RichText_Run)#144 (2) {
+        ["_font":"PHPExcel_RichText_Run":private]=>
+        object(PHPExcel_Style_Font)#147 (11) {
+          ["_name":protected]=>
+          string(5) "Arial"
+          ["_size":protected]=>
+          string(2) "10"
+          ["_bold":protected]=>
+          bool(false)
+          ["_italic":protected]=>
+          bool(false)
+          ["_superScript":protected]=>
+          bool(false)
+          ["_subScript":protected]=>
+          bool(false)
+          ["_underline":protected]=>
+          string(4) "none"
+          ["_strikethrough":protected]=>
+          bool(false)
+          ["_color":protected]=>
+          object(PHPExcel_Style_Color)#150 (4) {
+            ["_argb":protected]=>
+            string(8) "FF000000"
+            ["_parentPropertyName":protected]=>
+            NULL
+            ["_isSupervisor":protected]=>
+            bool(false)
+            ["_parent":protected]=>
+            NULL
+          }
+          ["_isSupervisor":protected]=>
+          bool(false)
+          ["_parent":protected]=>
+          NULL
+        }
+        ["_text":"PHPExcel_RichText_TextElement":private]=>
+        string(4) "1513"
+      }
+    }
+  }
+  ["mobile"]=>
+  string(4) "NULL"
+}
+
+Warning: mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /Library/WebServer/Documents/order-course-system/cli/vendor/joshcam/mysqli-database-class/MysqliDb.php on line 1431
+用户:谢永节 创建失败!
+于潇-41503408-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(6) "于潇"
+  ["name"]=>
+  string(8) "41503408"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:于潇 创建失败!
+马瑞-41503409-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(6) "马瑞"
+  ["name"]=>
+  string(8) "41503409"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:马瑞 创建失败!
+王鹏玉-41503410-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王鹏玉"
+  ["name"]=>
+  string(8) "41503410"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王鹏玉 创建失败!
+冯启航-41503411-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "冯启航"
+  ["name"]=>
+  string(8) "41503411"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:冯启航 创建失败!
+孙宇-41503412-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(6) "孙宇"
+  ["name"]=>
+  string(8) "41503412"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:孙宇 创建失败!
+杜松墨-41503413-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杜松墨"
+  ["name"]=>
+  string(8) "41503413"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杜松墨 创建失败!
+杜佳晟-41503414-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杜佳晟"
+  ["name"]=>
+  string(8) "41503414"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杜佳晟 创建失败!
+吾奇坤·亚力坤-41503415-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(20) "吾奇坤·亚力坤"
+  ["name"]=>
+  string(8) "41503415"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吾奇坤·亚力坤 创建失败!
+吴志强-41503416-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "吴志强"
+  ["name"]=>
+  string(8) "41503416"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吴志强 创建失败!
+吴思颖-41503417-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "吴思颖"
+  ["name"]=>
+  string(8) "41503417"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吴思颖 创建失败!
+吴疑难-41503418-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "吴疑难"
+  ["name"]=>
+  string(8) "41503418"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吴疑难 创建失败!
+邹港-41503419-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(6) "邹港"
+  ["name"]=>
+  string(8) "41503419"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:邹港 创建失败!
+张月颖-41503420-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张月颖"
+  ["name"]=>
+  string(8) "41503420"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张月颖 创建失败!
+陈晨-41503421-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(6) "陈晨"
+  ["name"]=>
+  string(8) "41503421"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈晨 创建失败!
+陈晶-41503422-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(6) "陈晶"
+  ["name"]=>
+  string(8) "41503422"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈晶 创建失败!
+欧阳明希-41503423-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(12) "欧阳明希"
+  ["name"]=>
+  string(8) "41503423"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:欧阳明希 创建失败!
+周彦泉-41503424-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "周彦泉"
+  ["name"]=>
+  string(8) "41503424"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:周彦泉 创建失败!
+侯子敬-41503425-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "侯子敬"
+  ["name"]=>
+  string(8) "41503425"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:侯子敬 创建失败!
+秦诣-41503426-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(6) "秦诣"
+  ["name"]=>
+  string(8) "41503426"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:秦诣 创建失败!
+高一格-41503427-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "高一格"
+  ["name"]=>
+  string(8) "41503427"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高一格 创建失败!
+高博航-41503428-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "高博航"
+  ["name"]=>
+  string(8) "41503428"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高博航 创建失败!
+曹丹丹-41503429-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "曹丹丹"
+  ["name"]=>
+  string(8) "41503429"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:曹丹丹 创建失败!
+蒋瑞-41503430-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(6) "蒋瑞"
+  ["name"]=>
+  string(8) "41503430"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:蒋瑞 创建失败!
+熊一庭-41503431-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "熊一庭"
+  ["name"]=>
+  string(8) "41503431"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:熊一庭 创建失败!
+戴俊杰-41503432-材料1513-NULL
+array(4) {
+  ["username"]=>
+  string(9) "戴俊杰"
+  ["name"]=>
+  string(8) "41503432"
+  ["unit_info"]=>
+  string(10) "材料1513"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:戴俊杰 创建失败!
+丁许栩-81503101-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "丁许栩"
+  ["name"]=>
+  string(8) "81503101"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:丁许栩 创建失败!
+于天然-81503102-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "于天然"
+  ["name"]=>
+  string(8) "81503102"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:于天然 创建失败!
+王嘉伟-81503103-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王嘉伟"
+  ["name"]=>
+  string(8) "81503103"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王嘉伟 创建失败!
+石瑀-81503104-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "石瑀"
+  ["name"]=>
+  string(8) "81503104"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:石瑀 创建失败!
+刘冠雄-81503105-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘冠雄"
+  ["name"]=>
+  string(8) "81503105"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘冠雄 创建失败!
+刘萌萌-81503106-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘萌萌"
+  ["name"]=>
+  string(8) "81503106"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘萌萌 创建失败!
+孙世铮-81503107-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "孙世铮"
+  ["name"]=>
+  string(8) "81503107"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:孙世铮 创建失败!
+孙智航-81503108-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "孙智航"
+  ["name"]=>
+  string(8) "81503108"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:孙智航 创建失败!
+李维超-81503109-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李维超"
+  ["name"]=>
+  string(8) "81503109"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李维超 创建失败!
+杨艺伟-81503110-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杨艺伟"
+  ["name"]=>
+  string(8) "81503110"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨艺伟 创建失败!
+张一晨-81503111-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张一晨"
+  ["name"]=>
+  string(8) "81503111"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张一晨 创建失败!
+周天恩-81503112-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "周天恩"
+  ["name"]=>
+  string(8) "81503112"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:周天恩 创建失败!
+赵敏-81503113-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "赵敏"
+  ["name"]=>
+  string(8) "81503113"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:赵敏 创建失败!
+夏晨飞-81503114-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "夏晨飞"
+  ["name"]=>
+  string(8) "81503114"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:夏晨飞 创建失败!
+徐宇鑫-81503115-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "徐宇鑫"
+  ["name"]=>
+  string(8) "81503115"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:徐宇鑫 创建失败!
+郭胤宸-81503116-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "郭胤宸"
+  ["name"]=>
+  string(8) "81503116"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:郭胤宸 创建失败!
+姬仁浩-81503117-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "姬仁浩"
+  ["name"]=>
+  string(8) "81503117"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:姬仁浩 创建失败!
+黄子昂-81503118-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "黄子昂"
+  ["name"]=>
+  string(8) "81503118"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:黄子昂 创建失败!
+王兆伟-81503119-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王兆伟"
+  ["name"]=>
+  string(8) "81503119"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王兆伟 创建失败!
+李翘-81503120-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "李翘"
+  ["name"]=>
+  string(8) "81503120"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李翘 创建失败!
+苏乾宇-81503121-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "苏乾宇"
+  ["name"]=>
+  string(8) "81503121"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:苏乾宇 创建失败!
+杨亦松-81503122-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杨亦松"
+  ["name"]=>
+  string(8) "81503122"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杨亦松 创建失败!
+陈沫涵-81503123-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈沫涵"
+  ["name"]=>
+  string(8) "81503123"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈沫涵 创建失败!
+秦理智-81503124-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "秦理智"
+  ["name"]=>
+  string(8) "81503124"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:秦理智 创建失败!
+陈钰瑄-81503125-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈钰瑄"
+  ["name"]=>
+  string(8) "81503125"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈钰瑄 创建失败!
+姜伟宁-81503126-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "姜伟宁"
+  ["name"]=>
+  string(8) "81503126"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:姜伟宁 创建失败!
+王一篷-81503127-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王一篷"
+  ["name"]=>
+  string(8) "81503127"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王一篷 创建失败!
+杜亚奇-81503128-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "杜亚奇"
+  ["name"]=>
+  string(8) "81503128"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:杜亚奇 创建失败!
+李华伟-81503129-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李华伟"
+  ["name"]=>
+  string(8) "81503129"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李华伟 创建失败!
+张洪博-81503130-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张洪博"
+  ["name"]=>
+  string(8) "81503130"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张洪博 创建失败!
+焦智涵-81503131-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "焦智涵"
+  ["name"]=>
+  string(8) "81503131"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:焦智涵 创建失败!
+廉明睿-81503132-材料U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "廉明睿"
+  ["name"]=>
+  string(8) "81503132"
+  ["unit_info"]=>
+  string(9) "材料U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:廉明睿 创建失败!
+王远东-41503501-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王远东"
+  ["name"]=>
+  string(8) "41503501"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王远东 创建失败!
+王梓阳-41503502-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王梓阳"
+  ["name"]=>
+  string(8) "41503502"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王梓阳 创建失败!
+王嘉融-41503503-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王嘉融"
+  ["name"]=>
+  string(8) "41503503"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王嘉融 创建失败!
+王融-41503504-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "王融"
+  ["name"]=>
+  string(8) "41503504"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王融 创建失败!
+尹凯-41503505-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "尹凯"
+  ["name"]=>
+  string(8) "41503505"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:尹凯 创建失败!
+刘依依-41503506-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘依依"
+  ["name"]=>
+  string(8) "41503506"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘依依 创建失败!
+刘继琛-41503507-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘继琛"
+  ["name"]=>
+  string(8) "41503507"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘继琛 创建失败!
+刘静怡-41503508-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘静怡"
+  ["name"]=>
+  string(8) "41503508"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘静怡 创建失败!
+李昕亭-41503509-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李昕亭"
+  ["name"]=>
+  string(8) "41503509"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李昕亭 创建失败!
+李炤中-41503510-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李炤中"
+  ["name"]=>
+  string(8) "41503510"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李炤中 创建失败!
+李新蕊-41503511-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李新蕊"
+  ["name"]=>
+  string(8) "41503511"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李新蕊 创建失败!
+连菲-41503512-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "连菲"
+  ["name"]=>
+  string(8) "41503512"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:连菲 创建失败!
+吴梦若-41503513-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "吴梦若"
+  ["name"]=>
+  string(8) "41503513"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吴梦若 创建失败!
+汪昕晔-41503514-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "汪昕晔"
+  ["name"]=>
+  string(8) "41503514"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:汪昕晔 创建失败!
+汪晋-41503515-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "汪晋"
+  ["name"]=>
+  string(8) "41503515"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:汪晋 创建失败!
+张羽葳-41503516-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "张羽葳"
+  ["name"]=>
+  string(8) "41503516"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张羽葳 创建失败!
+张倩-41503517-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "张倩"
+  ["name"]=>
+  string(8) "41503517"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:张倩 创建失败!
+陈晓璇-41503518-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈晓璇"
+  ["name"]=>
+  string(8) "41503518"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈晓璇 创建失败!
+陈朝燕-41503519-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "陈朝燕"
+  ["name"]=>
+  string(8) "41503519"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:陈朝燕 创建失败!
+罗晴-41503520-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "罗晴"
+  ["name"]=>
+  string(8) "41503520"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:罗晴 创建失败!
+赵昀琪-41503521-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "赵昀琪"
+  ["name"]=>
+  string(8) "41503521"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:赵昀琪 创建失败!
+柯锦涛-41503522-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "柯锦涛"
+  ["name"]=>
+  string(8) "41503522"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:柯锦涛 创建失败!
+袁书瑶-41503523-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "袁书瑶"
+  ["name"]=>
+  string(8) "41503523"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:袁书瑶 创建失败!
+贾雄辉-41503524-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "贾雄辉"
+  ["name"]=>
+  string(8) "41503524"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:贾雄辉 创建失败!
+徐康杰-41503525-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "徐康杰"
+  ["name"]=>
+  string(8) "41503525"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:徐康杰 创建失败!
+黄严-41503526-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "黄严"
+  ["name"]=>
+  string(8) "41503526"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:黄严 创建失败!
+常煜昕-41503527-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "常煜昕"
+  ["name"]=>
+  string(8) "41503527"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:常煜昕 创建失败!
+覃维都-41503528-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "覃维都"
+  ["name"]=>
+  string(8) "41503528"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:覃维都 创建失败!
+虞新可-41503529-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "虞新可"
+  ["name"]=>
+  string(8) "41503529"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:虞新可 创建失败!
+谭语慧-41503530-纳米15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "谭语慧"
+  ["name"]=>
+  string(8) "41503530"
+  ["unit_info"]=>
+  string(8) "纳米15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:谭语慧 创建失败!
+王悦-81503501-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "王悦"
+  ["name"]=>
+  string(8) "81503501"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王悦 创建失败!
+王晨希-81503502-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "王晨希"
+  ["name"]=>
+  string(8) "81503502"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王晨希 创建失败!
+王博-81503503-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "王博"
+  ["name"]=>
+  string(8) "81503503"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:王博 创建失败!
+田展-81503504-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "田展"
+  ["name"]=>
+  string(8) "81503504"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:田展 创建失败!
+吕美钟-81503505-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "吕美钟"
+  ["name"]=>
+  string(8) "81503505"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:吕美钟 创建失败!
+刘梓祺-81503506-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "刘梓祺"
+  ["name"]=>
+  string(8) "81503506"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:刘梓祺 创建失败!
+李国坤-81503507-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李国坤"
+  ["name"]=>
+  string(8) "81503507"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李国坤 创建失败!
+李泽宇-81503508-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "李泽宇"
+  ["name"]=>
+  string(8) "81503508"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李泽宇 创建失败!
+李通-81503509-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "李通"
+  ["name"]=>
+  string(8) "81503509"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:李通 创建失败!
+武一-81503510-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "武一"
+  ["name"]=>
+  string(8) "81503510"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:武一 创建失败!
+胡双媛-81503511-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "胡双媛"
+  ["name"]=>
+  string(8) "81503511"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:胡双媛 创建失败!
+姜炳瑄-81503512-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "姜炳瑄"
+  ["name"]=>
+  string(8) "81503512"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:姜炳瑄 创建失败!
+贾文韬-81503513-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "贾文韬"
+  ["name"]=>
+  string(8) "81503513"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:贾文韬 创建失败!
+高冲-81503514-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(6) "高冲"
+  ["name"]=>
+  string(8) "81503514"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:高冲 创建失败!
+唐续文-81503515-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "唐续文"
+  ["name"]=>
+  string(8) "81503515"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:唐续文 创建失败!
+魏长辛-81503516-纳米U15-NULL
+array(4) {
+  ["username"]=>
+  string(9) "魏长辛"
+  ["name"]=>
+  string(8) "81503516"
+  ["unit_info"]=>
+  string(9) "纳米U15"
+  ["mobile"]=>
+  string(4) "NULL"
+}
+用户:魏长辛 创建失败!

@@ -1,0 +1,10 @@
+测试接口根地址: http://test-ocs.kalen.site/api/index.php/
+请求方式: GET 或者 POST 都行
+返回格式:
+{
+    code: 0为成功, 1为失败, 2为非法请求
+    msg: 信息(没有实质作用)
+    data: 返回的数据, 可能是列表或者对象
+}
+
+如果返回数据为'无', 只有code需要.
